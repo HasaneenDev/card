@@ -74,8 +74,8 @@
     border-right: 4px solid #262626
 }
 .card:nth-child(2) .card-content ul li:hover{
-    border-left: 4px solid #43a55c;
-    border-right: 4px solid #43a55c
+    border-left: 4px solid #252c27;
+    border-right: 4px solid #2f3b32
 }
 .card-footer{
     height: 10%;
